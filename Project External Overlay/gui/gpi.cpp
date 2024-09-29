@@ -80,7 +80,7 @@ void GUI::RenderMenu()
 
 	ImGui::Begin("0xPunnawit"); 
 	ImGui::Text("This is some useful text."); 
-	ImGui::SliderInt("int", &n, 0, 10); 
+	ImGui::SliderInt("testSlider", &n, 0, 10); 
 
 	if (ImGui::Button("Death"))
 	{
