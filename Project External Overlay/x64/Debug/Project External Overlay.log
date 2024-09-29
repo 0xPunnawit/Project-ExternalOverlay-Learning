@@ -1,0 +1,4 @@
+﻿  gpi.cpp
+C:\Users\numcv\source\repos\Project External Overlay\Project External Overlay\gui\gpi.cpp(73,52): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Users\numcv\source\repos\Project External Overlay\Project External Overlay\gui\gpi.cpp(74,57): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  Project External Overlay.vcxproj -> C:\Users\numcv\source\repos\Project External Overlay\x64\Debug\Project External Overlay.exe
