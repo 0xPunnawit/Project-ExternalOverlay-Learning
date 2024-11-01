@@ -1,4 +1,18 @@
 ﻿  gpi.cpp
-C:\Users\numcv\source\repos\Project External Overlay\Project External Overlay\gui\gpi.cpp(73,52): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
-C:\Users\numcv\source\repos\Project External Overlay\Project External Overlay\gui\gpi.cpp(74,57): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
-  Project External Overlay.vcxproj -> C:\Users\numcv\source\repos\Project External Overlay\x64\Debug\Project External Overlay.exe
+C:\Users\Punnawit\source\repos\Project-ExternalOverlay-main\Project External Overlay\gui\gpi.cpp(147,11): warning C4101: 'bottom': unreferenced local variable
+C:\Users\Punnawit\source\repos\Project-ExternalOverlay-main\Project External Overlay\gui\gpi.cpp(146,11): warning C4101: 'top': unreferenced local variable
+C:\Users\Punnawit\source\repos\Project-ExternalOverlay-main\Project External Overlay\gui\gpi.cpp(149,7): warning C4101: 'num_of_player': unreferenced local variable
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Main.cpp
+  Memory.cpp
+C:\Users\Punnawit\source\repos\Project-ExternalOverlay-main\Project External Overlay\Memory.cpp(7,64): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Users\Punnawit\source\repos\Project-ExternalOverlay-main\Project External Overlay\Memory.cpp(46,86): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Users\Punnawit\source\repos\Project-ExternalOverlay-main\Project External Overlay\Memory.cpp(58,63): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  Generating Code...
+  Project External Overlay.vcxproj -> C:\Users\Punnawit\source\repos\Project-ExternalOverlay-main\x64\Debug\Project External Overlay.exe
